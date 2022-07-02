@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lukapetro
 - 👀 I’m interested in Javascript development
-- 🌱 I’m currently learning newest trends
-- 💞️ I’m looking to collaborate on fun projects
+- 📚 I’m currently learning Blockchain, Solidity & Web3.0
 - 📫 How to reach me: hi@lukapetrovic.dev
 
 <!---
