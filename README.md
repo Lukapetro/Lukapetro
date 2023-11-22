@@ -6,7 +6,7 @@
 🐕 When I'm not in front of the screen, you'll find me exploring with my dog, hitting the gym, or enjoying time with my loved ones.
 
 ## My Work
-- 🔭 I’m currently working on [Bitfinex](https://www.bitfinex.com/).
+- 🔭 I’m currently working at [Bitfinex](https://www.bitfinex.com/).
 - 🌱 I’m constantly learning and keeping up with the latest trends in tech.
 - 💬 Ask me about JavaScript, React, and anything tech-related!
 
