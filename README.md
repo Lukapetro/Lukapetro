@@ -1,4 +1,4 @@
-# Ciao 👋, I'm Luka Petrovic!
+# 👋 Ciao, I'm Luka Petrovic!
 
 ## About Me
 🚀 Fullstack Developer with a passion for Node.js, React, and React-Native.  
