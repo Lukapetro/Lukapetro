@@ -1,4 +1,4 @@
-# 👋 Ciao, i’m Luka (online, I go by Spit)
+# 👋 Ciao, i’m Luka aka Spit
 
 Just a chill dev
 <!---
