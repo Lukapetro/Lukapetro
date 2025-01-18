@@ -1,4 +1,4 @@
-# 👋 Ciao, i’m Luka aka Spit
+### 👋 Ciao, i’m Luka aka Spit
 
 Just a chill dev
 <!---
