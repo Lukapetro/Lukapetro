@@ -6,6 +6,7 @@ i make web and mobile apps, mostly React, React Native and TypeScript.
 
 - [Dashi](https://dashi.gg) · an exchange for Pokémon cards
 - [Stockroom](https://stockroom.gg) · inventory for card shops
+- [Rarity](https://rarity.dev) · an API for trading card data
 - [Itaca](https://github.com/Lukapetro/itaca) · a map of your projects for coding agents
 
 **open source**
